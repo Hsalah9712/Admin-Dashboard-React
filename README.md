@@ -6,7 +6,7 @@ Created with Reactjs Discover [Home & Users & Products] with Edit and Delete
 
 - React-Router-Dom
 - @material-ui/core
-- && @material-ui/icons
+- @material-ui/icons
 - @material-ui/data-grid
 - Recharts
 - useState From Hooks

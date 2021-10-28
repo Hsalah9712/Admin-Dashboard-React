@@ -4,14 +4,16 @@ Created with Reactjs Discover [Home & Users & Products] with Edit and Delete
 
 ## Tools Used in The Project
 
-1 - React-Router-Dom
-2 - @material-ui/core && @material-ui/icons && @material-ui/data-grid
-3 - Recharts
-4 - useState From Hooks
+- React-Router-Dom
+- @material-ui/core
+- && @material-ui/icons
+- @material-ui/data-grid
+- Recharts
+- useState From Hooks
 
 ## Setup
 
-Run :
+**Run :**
 
-1 - npm install
-2 - npm start
+- npm install
+- npm start
